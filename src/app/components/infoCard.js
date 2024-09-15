@@ -1,7 +1,7 @@
 import React from "react";
 
 const InfoCard = () => {
-  return <div>console.log("InfoCard")</div>;
+  return <div>InfoCard</div>;
 };
 
 export default InfoCard;
